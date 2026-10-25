@@ -2,6 +2,8 @@
 
 # OPIM 3510 — Business Data Analytics I · Notebooks
 
+> 📦 **Archive: the Spring 2024 version of the course.** The rebuilt course (Spring 2027) lives at **[drdave-teaching/OPIM3510-BDA1](https://github.com/drdave-teaching/OPIM3510-BDA1)**. This repo stays up because Module 3 is still linked from there until it is rebuilt.
+
 Student-facing Google Colab notebooks for **OPIM 3510 (BDA1)**, the hands-on
 companions to the [course companion book](https://drdave-teaching.github.io/opim3510-textbook/).
 
