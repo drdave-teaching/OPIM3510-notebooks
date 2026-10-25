@@ -15,7 +15,8 @@ companions to the [course companion book](https://drdave-teaching.github.io/opim
 
 ### Module 2 starts here
 Module 2 is built around one forecasting problem: **Connecticut's daily electricity demand**.
-Start with `Module2_TimeSeriesForecasting/1_TimeSeriesData/1_CT_Electricity_Demand.ipynb`.
+Start with `Module2_TimeSeriesForecasting/1_TimeSeriesData/1_CT_Electricity_Demand.ipynb` (Week 6: the data),
+then `Module2_TimeSeriesForecasting/2_MovingAverageModel/1_CT_Baselines_and_Moving_Averages.ipynb` (Week 7: baselines, moving averages, leakage, train/test by time).
 Every Module 2 notebook scores forecasts with the same `evaluate()` scorecard
 (`Module2_TimeSeriesForecasting/forecast_helpers.py`), using **error = predicted − actual**.
 
